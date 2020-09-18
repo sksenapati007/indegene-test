@@ -1,0 +1,159 @@
+body{
+    height: 1266px;
+    width: 1600px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+nav{
+    padding: 0px 245px 0px 245px;
+}
+
+#one{
+    width: 90px;
+    height: 64px;
+    margin: 10px 30px;
+}
+
+#two{
+    width: 70px;
+    height: 28px;
+    margin-left: 13px;
+    margin-bottom: 25px;
+}
+
+#nv{
+    float: right;
+    margin-right: 220px;
+}
+
+#nv li{
+    list-style-type: none;
+    float: left;
+}
+
+#srch{
+    margin-top: 12px;
+    width: 261px;
+    height: 30px;
+    float: right;
+    margin-right: -50px;
+}
+#srch-bar{
+    margin-top:15px;
+    float: right;
+    margin-right: -750px;
+}
+
+i{
+    float: right;
+    margin-right: -260px;
+    margin-top: 20px;
+}
+
+button{
+    margin-top:15px;
+    width: 120px;
+    height: 30px;
+    border: none;
+    background-color: white;
+}
+
+#s1{
+    width: 1601px;
+    height: 301px;
+    background-color: #34495E;
+}
+#d1{
+    float: left;
+    padding: 4%;
+    margin-left: 120px;
+}
+
+#d2{
+    float: right;
+    padding: 1%;
+    margin-right: 120px;
+}
+
+a {
+    display: block;
+    padding-right: 8px;
+}
+
+#s2{
+    width: 1601px;
+    height: 461px;
+    margin: 2% 12%;
+}
+.s2d{
+    height: 355px;
+    width: 266px;
+    border: 2px black solid;
+    float: left;
+    margin: 1%;
+}
+
+.s2d h4{
+    background-color:#2180C4;
+    color: white;
+    text-align: center;
+    height: 55px ;
+    margin-top: 1px;
+    padding-top: 5px;
+    font-size: 22px;
+}
+
+.s2d p{
+    text-align: center;
+}
+
+.s2d a{
+    text-align: center;
+    font-weight: bold;
+}
+
+#s3{
+    height: 121px;
+    width: 1601px;
+    background-color:#34495E;
+}
+
+#s3 h2{
+    color: white;
+    text-align: center;
+    padding-top: 35px;
+}
+
+footer{
+    background-color:#3A3A3A;
+    width: 1601px;
+    height: 265px;
+    color: #8E8E8E;
+}
+
+.ftr{
+    list-style-type: none;
+    color:  #8E8E8E;
+}
+
+.fd a{
+    text-decoration: none;
+    float: right;
+    text-align: left;
+}
+
+.ftr li:before{
+    content:"\2023";
+}
+
+span{
+    height: 45px;
+    width: 266px;
+    background-color: #656565;
+    font-size: 18px;
+}
+
+.fd{
+    margin-top: 45px;
+    float: left;
+    margin-left: 200px;
+}
